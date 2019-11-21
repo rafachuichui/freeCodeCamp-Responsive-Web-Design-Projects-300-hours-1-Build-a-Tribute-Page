@@ -1,0 +1,56 @@
+**                              https://codepen.io/rafachuichui/pen/MWWPryG                                                 **
+
+
+
+
+#main {
+  text-align: center;  
+  }
+body {
+  background-color: lightgrey;
+  text-align: center;
+width: 100%;
+}
+#title {
+  text-align:center;
+  background-color: grey;
+  font-size:60px;
+  font-family: monospace;
+}
+#image{
+display: block;
+border-radius: .5em ;
+width: 100%;
+height: auto ;
+box-shadow: 2px 2px #eaecf0;
+max-width: 100%;
+position: relative;
+}
+#img-div {
+text-align: center;
+top: 10px;
+width: 100%;
+height: auto;
+position: relative;
+}
+
+p {
+  text-align:center;
+}
+
+#image {
+  display:block;
+  margin:auto;
+}
+
+#img-caption {
+text-align:center;
+}
+
+#tribute-info {
+  text-align:center;
+}
+
+#headline {
+  text-align:center;
+}
